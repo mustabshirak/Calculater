@@ -1,0 +1,35 @@
+body{
+    background-color: navy;
+}
+.but{
+    color: purple;
+    background-color: palevioletred;
+    border-color: palevioletred;
+}
+.but:hover{
+    color: white;
+    background-color: purple;
+}
+#first{
+    color: white;
+    background-color: palevioletred;
+    border-color: palevioletred;
+    margin: auto;
+}
+#second{
+    color: palevioletred;
+    background-color: yellow;
+}
+#res{
+    background-color: palevioletred;
+    border-color: palevioletred;
+    color: purple;
+}
+#ope{
+    color: purple;
+    background-color: plum;
+}
+#ope:hover{
+    color: plum;
+    background-color: purple;
+}
